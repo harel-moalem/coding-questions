@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Solutions.CountSort.Test();
+Solutions.GridChallenge.Test();
 
 
